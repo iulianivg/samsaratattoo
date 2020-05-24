@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba06200f2d730d984c4b1830a1fefdad",
+    "revision": "0a5d31b2db1c4165ea3469c394d83a4c",
     "url": "/samsaratattoo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samsaratattoo/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "fc8122c681b2d6b51f6b",
+    "revision": "bd8c59a2dadd319226de",
     "url": "/samsaratattoo/static/css/main.a758a826.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samsaratattoo/static/js/2.c8188859.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc8122c681b2d6b51f6b",
-    "url": "/samsaratattoo/static/js/main.07ac8c09.chunk.js"
+    "revision": "bd8c59a2dadd319226de",
+    "url": "/samsaratattoo/static/js/main.c40592d0.chunk.js"
   },
   {
     "revision": "b03150fe84c1701ae8bb",

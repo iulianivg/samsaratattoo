@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/samsaratattoo/precache-manifest.a521a89becbe73db985b01af898464b2.js"
+  "/samsaratattoo/precache-manifest.884552ab5afe8f564f299c9945c01965.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/samsaratattoo/static/css/main.a758a826.chunk.css",
-    "main.js": "/samsaratattoo/static/js/main.07ac8c09.chunk.js",
-    "main.js.map": "/samsaratattoo/static/js/main.07ac8c09.chunk.js.map",
+    "main.js": "/samsaratattoo/static/js/main.c40592d0.chunk.js",
+    "main.js.map": "/samsaratattoo/static/js/main.c40592d0.chunk.js.map",
     "runtime-main.js": "/samsaratattoo/static/js/runtime-main.ca55da4b.js",
     "runtime-main.js.map": "/samsaratattoo/static/js/runtime-main.ca55da4b.js.map",
     "static/css/2.af3c1da9.chunk.css": "/samsaratattoo/static/css/2.af3c1da9.chunk.css",
     "static/js/2.c8188859.chunk.js": "/samsaratattoo/static/js/2.c8188859.chunk.js",
     "static/js/2.c8188859.chunk.js.map": "/samsaratattoo/static/js/2.c8188859.chunk.js.map",
     "index.html": "/samsaratattoo/index.html",
-    "precache-manifest.a521a89becbe73db985b01af898464b2.js": "/samsaratattoo/precache-manifest.a521a89becbe73db985b01af898464b2.js",
+    "precache-manifest.884552ab5afe8f564f299c9945c01965.js": "/samsaratattoo/precache-manifest.884552ab5afe8f564f299c9945c01965.js",
     "service-worker.js": "/samsaratattoo/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/samsaratattoo/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.a758a826.chunk.css.map": "/samsaratattoo/static/css/main.a758a826.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.c8188859.chunk.js",
     "static/css/main.a758a826.chunk.css",
-    "static/js/main.07ac8c09.chunk.js"
+    "static/js/main.c40592d0.chunk.js"
   ]
 }
